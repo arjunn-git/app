@@ -1,0 +1,24 @@
+.not-found-shell {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: calc(100vh - 72px);
+  padding: 24px;
+}
+
+mat-card {
+  width: 100%;
+  max-width: 480px;
+  text-align: center;
+  padding: 32px;
+}
+
+h1 {
+  font-size: 96px;
+  margin: 0 0 14px;
+}
+
+p {
+  margin-bottom: 24px;
+  color: #5f6368;
+}
